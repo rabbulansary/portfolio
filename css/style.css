@@ -3,10 +3,6 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    border-radius: 50%;
-    height: 150px;
-    width: 150px;
-    background-color: #ff7301;
 }
 
 h1 {
